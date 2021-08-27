@@ -4,11 +4,9 @@
 
 ![Fantasy](Images/Fantasy.png)
 
-You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Your final report should include each of the following:
+Final report includes the following:
 
 ### Player Count
 
@@ -45,7 +43,7 @@ Your final report should include each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identify the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
